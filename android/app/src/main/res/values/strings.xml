@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ionic-react-test-issues</string>
+    <string name="title_activity_main">ionic-react-test-issues</string>
+    <string name="package_name">com.jeepq.ionic7.react.sqlite.test</string>
+    <string name="custom_url_scheme">com.jeepq.ionic7.react.sqlite.test</string>
+</resources>
