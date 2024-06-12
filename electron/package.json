@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@capacitor-community/electron": "^5.0.0",
-    "@capacitor-community/sqlite": "^5.7.3",
+    "@capacitor-community/sqlite": "^6.0.0-beta.2",
     "better-sqlite3-multiple-ciphers": "^8.4.0",
     "chokidar": "~3.5.3",
     "crypto": "^1.0.1",

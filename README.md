@@ -5,7 +5,7 @@
 <p align="center">Ionic/React application use to fix the issues of the</p>
 <p align="center"><strong><code>@capacitor-community/sqlite</code></strong></p>
 <br>
-<p align="center"><strong><code>this app uses Capacitor 5</code></strong></p>
+<p align="center"><strong><code>this app uses Capacitor 6</code></strong></p>
 <br>
 <p align="center">
   <img src="https://img.shields.io/maintenance/yes/2024?style=flat-square" />

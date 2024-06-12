@@ -1,7 +1,7 @@
 {
   "name": "ionic-react-test-issues",
   "private": true,
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
   "scripts": {
     "dev": "npm run copy:sql:wasm && vite",
@@ -23,15 +23,15 @@
   },
   "dependencies": {
     "@capacitor-community/electron": "^5.0.1",
-    "@capacitor-community/sqlite": "^5.7.3",
-    "@capacitor/android": "^5.7.4",
-    "@capacitor/app": "5.0.7",
-    "@capacitor/core": "5.7.4",
-    "@capacitor/haptics": "5.0.7",
-    "@capacitor/ios": "^5.7.4",
-    "@capacitor/keyboard": "5.0.8",
-    "@capacitor/status-bar": "5.0.7",
-    "@capacitor/toast": "^5.0.7",
+    "@capacitor-community/sqlite": "^6.0.0-beta.2",
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/app": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/haptics": "^6.0.0",
+    "@capacitor/ios": "^6.0.0",
+    "@capacitor/keyboard": "^6.0.0",
+    "@capacitor/status-bar": "^6.0.0",
+    "@capacitor/toast": "^6.0.0",
     "@ionic/pwa-elements": "^3.2.2",
     "@ionic/react": "^7.0.0",
     "@ionic/react-router": "^7.0.0",
@@ -47,7 +47,7 @@
     "sql.js": "^1.10.2"
   },
   "devDependencies": {
-    "@capacitor/cli": "5.7.4",
+    "@capacitor/cli": "^6.0.0",
     "@testing-library/dom": ">=7.21.4",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
@@ -67,5 +67,5 @@
     "vite": "^5.0.0",
     "vitest": "^0.34.6"
   },
-  "description": "An Ionic/React project to test @capacitor-community/sqlite version 5"
+  "description": "An Ionic/React project to test @capacitor-community/sqlite version 6"
 }

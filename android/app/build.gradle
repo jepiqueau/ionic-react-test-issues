@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     namespace "com.jeepq.ionic7.react.sqlite.test"
-    compileSdkVersion rootProject.ext.compileSdkVersion
+    compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
         applicationId "com.jeepq.ionic7.react.sqlite.test"
         minSdkVersion rootProject.ext.minSdkVersion
