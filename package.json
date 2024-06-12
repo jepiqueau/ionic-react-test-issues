@@ -67,5 +67,5 @@
     "vite": "^5.0.0",
     "vitest": "^0.34.6"
   },
-  "description": "An Ionic project"
+  "description": "An Ionic/React project to test @capacitor-community/sqlite version 5"
 }
